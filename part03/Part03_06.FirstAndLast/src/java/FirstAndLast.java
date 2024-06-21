@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ListSize {
+public class FirstAndLast {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,6 +16,6 @@ public class ListSize {
 
             list.add(input);
         }
-        System.out.println(list.size());
+
     }
 }
